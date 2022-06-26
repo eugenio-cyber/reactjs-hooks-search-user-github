@@ -1,5 +1,5 @@
 <h3 align="center">
- Foto de Usuário do GitHub
+ Usuário do GitHub
 </h3>
   
 <br>
