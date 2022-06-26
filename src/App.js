@@ -1,11 +1,12 @@
+import Input from "./components/Input";
+import Header from "./components/Header";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="container">
-      <header className="header"></header>
+      <Header />
+      <Input />
     </div>
   );
 }
-
-// https://api.github.com/users/eugenio-cyber

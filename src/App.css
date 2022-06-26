@@ -1,5 +1,9 @@
 :root {
-  --background: #eceff4;
+  --background-page: #f6f8ff;
+  --background-section: #fefefe;
+  --text: #4b6a9b;
+  --btn: #0079ff;
+  --btn-hover: #60abff;
 }
 
 .container {
@@ -8,10 +12,9 @@
   align-items: center;
 
   height: 100vh;
-  padding-top: 74px;
+  padding: 74px 294px 0 294px;
 
-  background: var(--background);
-}
+  font-family: "Space Mono", monospace;
 
-.header {
+  background: var(--background-page);
 }
