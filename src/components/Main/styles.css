@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+
+  width: 100%;
+  padding: 38px;
+  border-radius: 15px;
+
+  background: var(--background-section);
+}
+
+.main__avatar {
+  width: 150px;
+  border-radius: 50%;
+}
