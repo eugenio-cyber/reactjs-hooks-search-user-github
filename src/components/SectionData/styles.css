@@ -1,0 +1,27 @@
+.data {
+  display: flex;
+  gap: 74px;
+
+  padding: 28px;
+  border-radius: 15px;
+
+  background: #f5f7ff;
+}
+
+.data__repos {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.data__followers {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.data__following {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
