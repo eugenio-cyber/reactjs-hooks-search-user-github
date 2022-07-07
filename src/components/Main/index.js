@@ -1,5 +1,6 @@
 import Avatar from "../../assets/avatar.png";
 import SectionData from "../SectionData";
+import SectionSocial from "../SectionSocial";
 import "./styles.css";
 
 const Main = () => {
@@ -20,6 +21,7 @@ const Main = () => {
           <p className="main__bio">This profile has no bio</p>
 
           <SectionData />
+          <SectionSocial />
         </div>
       </section>
     </main>

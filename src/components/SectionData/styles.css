@@ -1,9 +1,10 @@
 .data {
   display: flex;
-  gap: 74px;
+  gap: 72px;
 
   padding: 28px;
   border-radius: 15px;
+  margin-bottom: 30px;
 
   background: #f5f7ff;
 }

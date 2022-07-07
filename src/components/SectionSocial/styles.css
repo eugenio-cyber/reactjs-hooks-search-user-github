@@ -1,0 +1,27 @@
+.social {
+  display: flex;
+  gap: 58px;
+
+  width: 100%;
+}
+
+.social__column {
+  display: flex;
+  flex-direction: column;
+}
+
+.social__location {
+  margin-right: 14px;
+}
+
+.social__twitter {
+  margin-right: 14px;
+}
+
+.social__company {
+  margin-right: 14px;
+}
+
+.social__web {
+  margin-right: 14px;
+}
